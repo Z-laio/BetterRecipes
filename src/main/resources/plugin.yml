@@ -1,0 +1,4 @@
+name: BetterRecipes
+version: '${project.version}'
+main: me.zlaio.betterrecipes.BetterRecipes
+api-version: 1.19
